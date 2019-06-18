@@ -1,0 +1,16 @@
+input{
+  margin: 40px;
+  font-family: Verdana, cursive;
+  font-size: 24px;
+  width: 1200px;
+  height: 40px;
+}
+
+
+
+:host{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}

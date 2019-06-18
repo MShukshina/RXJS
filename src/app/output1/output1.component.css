@@ -1,0 +1,16 @@
+div{
+  border: 4px solid white;
+  height: 500px;
+  width: 1200px;
+  color: white;
+  font-size: 18px;
+  font-family: Verdana, cursive;
+}
+
+:host{
+  margin: 40px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
